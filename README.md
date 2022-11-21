@@ -24,24 +24,26 @@ Hi, I'm Geisel Rocha!
 
 <p> Olá, meu nome é Geisel Rocha </p>
 <p> Obrigado por consultar meu GitHub 😉 </p>
-<p> Permita-me apresentar-me profissionalmente: Tenho 46 anos, e atualmente estou em transição de carreira, trabalhei 
-20 anos como Analista de Importação/Exportação e também como Despachante Aduaneiro, sou Bacharel em Administração com 
-Habilitação em Comércio Exterior pela UFPR. </p>
-</p> No momento estudo na Trybe, onde aprendi sobre JavaScript, HTML, CSS, React, Redux. Aprendi também a versionar 
-códigos com Git/GitHub e a utilizar metologias ágeis como Scrum e Kanban. Além disso, obtive uma base de estudos 
-sobre Soft Skills, com foco na Comunicação e no trabalho em equipe. </p>
-</p> Mais recentemente me apaixonei pela área de BackEnd, onde estou aprendendo sobre Docker, MySQL, Node, TypeScript, 
-POO, SOLID, MongoDB, NoSQL. </p>
-</p> Gostei tanto que futuramente pretendo me tornar um Arquiteto de Dados, e para isto vou precisar basicamente de 
-duas coisas:  </p>
+<p> Permita-me apresentar-me profissionalmente: Tenho 46 anos, e atualmente estou em transição de 
+carreira, trabalhei 20 anos como Analista de Importação/Exportação e também como Despachante 
+Aduaneiro, sou Bacharel em Administração com Habilitação em Comércio Exterior pela UFPR. </p>
+</p> No momento estudo na Trybe, onde aprendi sobre JavaScript, HTML, CSS, React, Redux. Aprendi 
+também a versionar códigos com Git/GitHub e a utilizar metologias ágeis como Scrum e Kanban. Além 
+disso, obtive uma base de estudos sobre Soft Skills, com foco na Comunicação e no trabalho em 
+equipe.</p>
+</p> Mais recentemente me apaixonei pela área de BackEnd, onde estou aprendendo sobre Docker, MySQL, 
+Node, TypeScript, POO, SOLID, MongoDB, NoSQL. </p>
+</p> Gostei tanto que futuramente pretendo me tornar um Arquiteto de Dados, e para isto vou precisar 
+basicamente de duas coisas:  </p>
 <ol>
 <li> Experiência na área </li>
 <li> Curso de pós-graduação, livros, cursos na internet, palestras, etc. </li>
 </ol>
-</p> Se você recrutador chegou até aqui, talvez possa me ajudar a conquistar a  <i>experiência na área</i>, pois estou 
-em busca de uma oportunidade para demonstrar meu talento e minhas habilidades. <p> 
-<p> Fico à disposição para uma entrevista, e caso me torne um colaborador na sua empresa, acredito que possa compensar 
-a falta de experiência com dedicação e empenho.</p>
+</p> Se você recrutador chegou até aqui, talvez possa me ajudar a conquistar a  <i>experiência na 
+área</i>, pois estou em busca de uma oportunidade para demonstrar meu talento e minhas habilidades. 
+<p> 
+<p> Fico à disposição para uma entrevista, e caso me torne um colaborador na sua empresa, acredito 
+que possa compensar a falta de experiência com dedicação e empenho.</p>
 
 </main>
     <script src="script.js"></script>
