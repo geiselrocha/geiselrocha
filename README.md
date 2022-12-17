@@ -31,7 +31,7 @@ Aduaneiro, sou Bacharel em Administração com Habilitação em Comércio Exteri
 também a versionar códigos com Git/GitHub e a utilizar metologias ágeis como Scrum e Kanban. Além 
 disso, obtive uma base de estudos sobre Soft Skills, com foco na Comunicação e no trabalho em 
 equipe.</p>
-</p> Mais recentemente me apaixonei pela área de BackEnd, onde estou aprendendo sobre Docker, MySQL, 
+</p> Mais recentemente me apaixonei pela área de Backend, onde estou aprendendo sobre Docker, MySQL, 
 Node, TypeScript, POO, SOLID, MongoDB, NoSQL. </p>
 </p> Gostei tanto que futuramente pretendo me tornar um Arquiteto de Dados, e para isto vou precisar 
 basicamente de duas coisas:  </p>
