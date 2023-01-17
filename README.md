@@ -24,9 +24,10 @@ Hi, I'm Geisel Rocha!
 
 <p> Olá, meu nome é Geisel Rocha </p>
 <p> Obrigado por consultar meu GitHub 😉 </p>
-<p> Permita-me apresentar-me profissionalmente: Tenho 46 anos, e atualmente estou em transição de 
-carreira, trabalhei 20 anos como Analista de Importação/Exportação e também como Despachante 
-Aduaneiro, sou Bacharel em Administração com Habilitação em Comércio Exterior pela UFPR. </p>
+<p> Permita-me apresentar-me profissionalmente: Tenho 46 anos, sou um empreendedor e atualmente 
+estou em buscas de novos conhecimentos, trabalhei 20 anos como Analista de Importação/Exportação 
+e também como Despachante Aduaneiro, e sou Bacharel em Administração com Habilitação em Comércio 
+Exterior pela UFPR. </p>
 </p> No momento estudo na Trybe, onde aprendi sobre JavaScript, HTML, CSS, React, Redux. Aprendi 
 também a versionar códigos com Git/GitHub e a utilizar metologias ágeis como Scrum e Kanban. Além 
 disso, obtive uma base de estudos sobre Soft Skills, com foco na Comunicação e no trabalho em 
