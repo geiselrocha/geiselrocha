@@ -18,18 +18,15 @@ Hi, I'm Geisel Rocha!
 
 <body>
     <header>
-        <h1 id="title">Full Stack Web Development Student at Trybe 💻 </h1>
+        <h1 id="title">Desenvolvedor Backend 💻 </h1>
     </header>
     <main>
 
-<p> Olá, meu nome é Geisel Rocha </p>
-<p> Obrigado por consultar meu GitHub 😉 </p>
-<p> Permita-me apresentar-me profissionalmente: Tenho 46 anos, sou um empreendedor e atualmente 
-estou em buscas de novos conhecimentos, trabalhei 20 anos com Importação/Exportação, e sou 
-Bacharel em Administração com Habilitação em Comércio Exterior pela UFPR. </p>
-</p> No momento estudo na Trybe, onde aprendi sobre JavaScript, HTML, CSS, React, Redux. Aprendi 
-também a versionar códigos com Git/GitHub e a utilizar metologias ágeis como Scrum e Kanban. Além 
-disso, obtive uma base de estudos sobre Soft Skills, com foco na Comunicação e no trabalho em 
+<p> Sou um empreendedor e atualmente estou em buscas de novos conhecimentos, trabalhei 20 anos com 
+Importação/Exportação, e sou Bacharel em Administração (Comércio Exterior) pela UFPR. </p>
+</p> No momento estudo na Trybe, onde aprendi sobre JavaScript, Typescript, HTML, CSS, React, Redux.
+Aprendi também a versionar códigos com Git/GitHub e a utilizar metologias ágeis como Scrum e Kanban.
+Além disso, obtive uma base de estudos sobre Soft Skills, com foco na Comunicação e no trabalho em 
 equipe.</p>
 </p> Mais recentemente me apaixonei pela área de Backend, onde estou aprendendo sobre Docker, MySQL, 
 Node, TypeScript, POO, SOLID, MongoDB, NoSQL. </p>
