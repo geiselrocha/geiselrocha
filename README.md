@@ -24,11 +24,11 @@ Hi, I'm Geisel Rocha!
 
 <p> Sou um empreendedor e atualmente estou em buscas de novos conhecimentos, trabalhei 20 anos com 
 Importação/Exportação, e sou Bacharel em Administração (Comércio Exterior) pela UFPR. </p>
-</p> Nos último 12 meses estudei na Trybe, onde aprendi sobre JavaScript, Typescript, HTML, CSS, 
+<p> Nos último 12 meses estudei na Trybe, onde aprendi sobre JavaScript, Typescript, HTML, CSS, 
 React, Redux. Aprendi também a versionar códigos com Git/GitHub e a utilizar metologias ágeis como
 Scrum e Kanban. Além disso, obtive uma base de estudos sobre Soft Skills, com foco na Comunicação 
 e no trabalho em equipe. </p>
-</p> Mais recentemente me apaixonei pela área de Backend, onde aprendi sobre Docker, MySQL, Node.js, 
+<p> Mais recentemente me apaixonei pela área de Backend, onde aprendi sobre Docker, MySQL, Node.js, 
 POO, SOLID, MongoDB, NoSQL, gostei tanto que futuramente pretendo me tornar um Arquiteto de Dados.
 </p>
 <p> Obrigado por consultar meu GitHub.</p>
