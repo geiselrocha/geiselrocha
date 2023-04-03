@@ -24,23 +24,14 @@ Hi, I'm Geisel Rocha!
 
 <p> Sou um empreendedor e atualmente estou em buscas de novos conhecimentos, trabalhei 20 anos com 
 Importação/Exportação, e sou Bacharel em Administração (Comércio Exterior) pela UFPR. </p>
-</p> No momento estudo na Trybe, onde aprendi sobre JavaScript, Typescript, HTML, CSS, React, Redux.
-Aprendi também a versionar códigos com Git/GitHub e a utilizar metologias ágeis como Scrum e Kanban.
-Além disso, obtive uma base de estudos sobre Soft Skills, com foco na Comunicação e no trabalho em 
-equipe.</p>
-</p> Mais recentemente me apaixonei pela área de Backend, onde estou aprendendo sobre Docker, MySQL, 
-Node, TypeScript, POO, SOLID, MongoDB, NoSQL. </p>
-</p> Gostei tanto que futuramente pretendo me tornar um Arquiteto de Dados, e para isto vou precisar 
-basicamente de duas coisas:  </p>
-<ol>
-<li> Experiência na área </li>
-<li> Curso de pós-graduação, livros, cursos na internet, palestras, etc. </li>
-</ol>
-</p> Se você recrutador chegou até aqui, talvez possa me ajudar a conquistar a  <i>experiência na 
-área</i>, pois estou em busca de uma oportunidade para demonstrar meu talento e minhas habilidades. 
-<p> 
-<p> Fico à disposição para uma entrevista, e caso me torne um colaborador na sua empresa, acredito 
-que possa compensar a falta de experiência com dedicação e empenho.</p>
+</p> Nos último 12 meses estudei na Trybe, onde aprendi sobre JavaScript, Typescript, HTML, CSS, 
+React, Redux. Aprendi também a versionar códigos com Git/GitHub e a utilizar metologias ágeis como
+Scrum e Kanban. Além disso, obtive uma base de estudos sobre Soft Skills, com foco na Comunicação 
+e no trabalho em equipe. </p>
+</p> Mais recentemente me apaixonei pela área de Backend, onde aprendi sobre Docker, MySQL, Node.js, 
+POO, SOLID, MongoDB, NoSQL, gostei tanto que futuramente pretendo me tornar um Arquiteto de Dados.
+</p>
+<p> Obrigado por consultar meu GitHub.</p>
 
 </main>
     <script src="script.js"></script>
