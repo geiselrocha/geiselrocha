@@ -29,8 +29,8 @@ React, Redux. Aprendi também a versionar códigos com Git/GitHub e a utilizar m
 Scrum e Kanban. Além disso, obtive uma base de estudos sobre Soft Skills, com foco na Comunicação 
 e no trabalho em equipe. </p>
 <p> Mais recentemente me apaixonei pela área de Backend, onde aprendi sobre Docker, MySQL, Node.js, 
-POO, SOLID, MongoDB, NoSQL, gostei tanto que futuramente pretendo me tornar um Arquiteto de Dados.
-</p>
+Express, POO, SOLID, MongoDB, NoSQL, gostei tanto que futuramente pretendo me tornar um Arquiteto 
+de Dados. </p>
 <p> Obrigado por consultar meu GitHub.</p>
 
 </main>
