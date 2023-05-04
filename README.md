@@ -18,7 +18,7 @@ Hi, I'm Geisel Rocha!
 
 <body>
     <header>
-        <h1 id="title">Desenvolvedor Backend 💻 </h1>
+        <h1 id="title">Desenvolvedor Web Full Stack 💻 </h1>
     </header>
     <main>
   
